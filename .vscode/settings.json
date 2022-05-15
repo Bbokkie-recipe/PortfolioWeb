@@ -1,0 +1,11 @@
+{
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.tokenColorCustomizations": {
+    "conmments": "#ffc2c2"
+  },
+  "eslint.validate": ["javascript"],
+  "workbench.settings.useSplitJSON": false,
+  "json.schemas": [],
+  "launch": {},
+  "liveServer.settings.port": 5502
+}
